@@ -1,5 +1,5 @@
 {
-  "scoreboard.ping": "Ping",
+  "scoreboard.ping": "Latencia",
   "scoreboard.anticheat": "Anticheat",
   "scoreboard.version": "Version",
   "scoreboard.cps": "CPS",
@@ -151,10 +151,10 @@
   "anticheat.kick.vulcan.desync": "Desync",
   "anticheat.kick.vulcan.desync_2": "Vulcan te habria kickeado por desync",
 
-  "chest.test.message_1": "It took",
-  "chest.test.message_2": "to steal the chest",
-  "chest.test.message_3": "out of",
-  "chest.test.message_4": "items have been taken",
+  "chest.test.message_1": "Tomo",
+  "chest.test.message_2": "para robar el cofre",
+  "chest.test.message_3": "fuera de",
+  "chest.test.message_4": "los items fueron tomados",
 
   "speed.test.start.title.1": "VAMOS!",
   "speed.test.start.title.2": "Corre hasta el final del test y obtendras tu resultado",
